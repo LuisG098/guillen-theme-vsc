@@ -14,11 +14,11 @@
       {
         "label": "guillen theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/guillen theme-color-theme.json"
+        "path": "./themes/guillen-theme-color-theme.json"
       }
     ]
   },
-  "icon": "icons/miLogotipo_sinSimp_LuisGuillen - copia.png",
+  "icon": "icons/miLogotipo_sinSimp_LuisGuillen.png",
 "author": {
   "name": "Luis Eduardo Guillén Poot",
   "email": "edwardguillen257@gmail.com"
