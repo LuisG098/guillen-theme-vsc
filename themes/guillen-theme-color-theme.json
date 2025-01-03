@@ -4,7 +4,9 @@
 		"editor.background": "#101111",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#101111",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#101111",
+		"statusBar.background": "#252525"
 	},
 	"tokenColors": [
 		{
