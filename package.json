@@ -2,7 +2,7 @@
   "name": "guillen",
   "displayName": "guillen",
   "description": "Tema de fondo oscuro, pero muy colorido. Creado por Luis Eduardo Guillén Poot xD",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.96.0"
   },
