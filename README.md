@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hola. Este es mi primer tema de VSC. Espero sea de su agrado xD
 
 ## Imagen de fondo de este tema
@@ -9,3 +10,7 @@ Si gustas agregar la imagen, se encuentra en la carpeta llamada 'img'. La imagen
 
 
 Tendrías que agregarla directamente en tu VSCode. Ahora sí, espero que este tema sea de su agrado xD
+=======
+# guillen-theme-vsc
+Este es el repositorio de mi primer tema de VSCode xD
+>>>>>>> d7b7eb42e44ffdaa0debb42da3936e9b036cca3d
