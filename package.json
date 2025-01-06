@@ -1,0 +1,32 @@
+{
+  "name": "guillen",
+  "displayName": "guillen",
+  "description": "Tema de fondo oscuro, pero muy colorido. Creado por Luis Eduardo Guillén Poot xD",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "guillen theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/guillen-theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/miLogotipo_sinSimp_LuisGuillen.png",
+"author": {
+  "name": "Luis Eduardo Guillén Poot",
+  "email": "edwardguillen257@gmail.com"
+  },
+"repository": {
+  "url": "https://github.com/LuisG098/guillen-theme-vsc.git",
+  "type": "git"
+  },
+  "publisher": "guillen"
+
+}
